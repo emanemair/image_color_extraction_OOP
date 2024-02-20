@@ -10,7 +10,7 @@ This project utilizes Python's Turtle graphics module to draw a color palette ba
 ## Installation:
 1. Clone the repository to your local machine.
 2. Ensure you have Python installed.
-3. Install the required dependencies by running:
+3. Install the required dependencies
 
 
 
